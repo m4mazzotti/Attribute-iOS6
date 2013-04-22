@@ -2,4 +2,4 @@
 
 #### Lecture #4: Foundation, Attributed Strings
 * ~~Demo Code~~
-* ~~Outline~~
+* ~~Missing Code~~
